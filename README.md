@@ -104,7 +104,7 @@ Creación, consulta y análisis de bases de datos utilizando SQL Server.
 | Certificación | Institución | Estado |
 |---|---|---|
 | Linux/Unix Shell Scripting, Python and Perl | Udemy | 🟢 Completado |
-| Oracle Billing and Revenue Management (BRM) | Oracle | 🟢 Completado |
+| Billing and Revenue Management (BRM) | Oracle | 🟢 Completado |
 
 ### 🔐 Ciberseguridad
 
