@@ -79,8 +79,10 @@ Creación, consulta y análisis de bases de datos utilizando SQL Server.
 | Certificación | Institución | Estado |
 |---|---|---|
 | Técnico en Ciencia de Datos | INCOEX - PROCOMER | 🟢 Completado |
+| Fundamentos De Inteligencia Artificial Para La Nueva Economía Digital | MICITT - CECI | 🟢 Completado |
 | Fundamentos de IA con IBM SkillsBuild | MICITT - CECI | 🟢 Completado |
-| Introducción a la IA moderna | MICITT - CECI | 🟢 Completado |
+| Data Analytics Essentials | MICITT - CECI | 🟢 Completado |
+| Fundamentos de IA con IBM SkillsBuild | MICITT - CECI | 🟢 Completado |
 | Fundamentos de Análisis de Datos | MICITT - CECI | 🟢 Completado |
 | Introducción a la Ciencia de Datos | MICITT - CECI | 🟢 Completado |
 
