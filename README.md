@@ -66,6 +66,7 @@ Creación, consulta y análisis de bases de datos utilizando SQL Server.
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ## 🎓 Educación
+📜 Consulta mis credenciales oficiales en mi [historial completo de certificaciones y formación académica](https://github.com/MarilynMirandaJaen/credenciales), donde encontrarás información y documentos de respaldo de mi formación profesional.
 
 | Institución | Carrera | Fecha | Estado |
 |---|---|---|---|
