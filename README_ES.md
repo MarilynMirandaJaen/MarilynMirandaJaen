@@ -6,6 +6,12 @@ Soy una profesional enfocada en el análisis de datos y actualmente continúo de
 
 Me interesa transformar datos en información útil para apoyar la toma de decisiones.
 
+🌐 <b>Idioma:</b>
+
+<a href="README.md">
+  <img src="https://img.shields.io/badge/VER%20EN%20INGLES-EN-E8D5CF?style=for-the-badge">
+</a>
+
 ## 👩‍💻 Sobre mí
 
 - 📊 En formación continua en **Data Analytics y Data Science**
