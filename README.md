@@ -33,13 +33,76 @@ To continue growing as a **Data Analyst**, strengthening my knowledge in Data Sc
 
 ### 📊 Data Science 📈 Power BI 🗄️ SQL 🐍 Python
 
-Projects involving exploratory data analysis, data cleaning, visualization, and Machine Learning using Python.
+Explore my Data Analytics, Business Intelligence, and
+Machine Learning projects developed using Python,
+SQL Server, Power BI, and Excel.
 
-Interactive dashboards, KPIs, and business data analysis.
+---
 
-Database creation, querying, and analysis using SQL Server.
+### 🛒 1. Shopify E-Commerce Returns Analytics
+**Technologies:** Python | Pandas | Power BI | DAX | EDA
 
-🔗 [View Data Science Projects](https://github.com/MarilynMirandaJaen/Ciencia-de-Datos)
+- Analyzed 60,000 e-commerce transactions to identify return patterns.
+- Performed data cleaning, transformation, and exploratory data analysis.
+- Developed interactive Power BI dashboards to analyze revenue,
+  profitability, and product returns.
+- Identified a 14.72% returned revenue rate.
+
+📂 [View Shopify Project](https://github.com/MarilynMirandaJaen/Ciencia-de-Datos/tree/main/Unidad%206/Proyecto%20final)
+
+---
+
+### 👥 2. TicoShop – Customer Churn Analysis
+**Technologies:** Python | Pandas | Scikit-learn | Machine Learning
+
+- Analyzed 2,000 customer records to identify churn patterns.
+- Performed customer segmentation into four behavioral groups.
+- Developed a Logistic Regression model to predict customer churn.
+- Achieved 80.5% accuracy and 74.4% recall for churn detection.
+
+📂 [View TicoShop Project](https://github.com/MarilynMirandaJaen/Ciencia-de-Datos/tree/main/Unidad%205/examen)
+
+---
+
+### 💊 3. Pharmacy Sales Analysis
+**Technologies:** SQL Server | Power BI | Excel | Data Cleaning
+
+- Performed data cleaning and validation using SQL Server.
+- Identified duplicate records, missing values, and inconsistencies.
+- Developed a Power BI dashboard to analyze sales performance.
+- Analyzed approximately CRC 2.8 million in sales.
+
+📂 [View Pharmacy Project](https://github.com/MarilynMirandaJaen/Ciencia-de-Datos/tree/main/Unidad%204/examen)
+
+---
+
+### 📊 4. Business Performance Dashboard
+**Technologies:** Power BI | DAX | Excel | Business Intelligence
+
+- Developed an executive dashboard with financial and operational KPIs.
+- Analyzed sales, net profit, production, and delivery performance.
+- Created interactive visualizations using Power BI and DAX.
+- Evaluated CRC 982.7 million in sales and an 86% delivery compliance rate.
+
+📂 [View Power BI Project](https://github.com/MarilynMirandaJaen/Ciencia-de-Datos/tree/main/Unidad%204/quiz)
+
+---
+
+### 🐍 5. Exploratory Sales Data Analysis
+**Technologies:** Python | Pandas | Matplotlib | Tkinter
+
+- Analyzed 1,185 sales records using Python.
+- Performed data cleaning, validation, and statistical analysis.
+- Developed visualizations to identify trends and patterns.
+- Created a Tkinter application for interactive data exploration.
+
+📂 [View Python Project](https://github.com/MarilynMirandaJaen/Ciencia-de-Datos/tree/main/Unidad%203/Proyecto_Final)
+
+---
+
+### 🔗 Complete Data Analytics Portfolio
+
+📊 [Explore All My Data Analytics Projects](https://github.com/MarilynMirandaJaen/Ciencia-de-Datos)
 
 ## 🛠️ Technologies & Tools
 
