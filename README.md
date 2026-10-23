@@ -10,8 +10,8 @@ I am interested in transforming data into meaningful insights to support decisio
 
 🌐 <b>Language:</b>
 
-<a href="README.md">
-  <img src="https://img.shields.io/badge/View%20in%20ESPANISH-ES-E8D5CF?style=for-the-badge">
+<a href="README_ES.md">
+  <img src="https://img.shields.io/badge/View%20in%20SPANISH-ES-E8D5CF?style=for-the-badge">
 </a>
 
 ---
